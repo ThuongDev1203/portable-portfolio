@@ -1,32 +1,26 @@
-## Company 1
-
-- _Role_ | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## Academic Competitions
+- _Trường Đại học Văn Hiến_ | Aug 2024
+- ![logo512](../assets/logo.png)
+- Tags: Achievements 1
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Achievements: Second Prize
 
-## Company 2
-
-- _Role_ | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## Academic Competitions
+- _Trường Đại học Văn Hiến_ | Aug 2024
+- ![logo512](../assets/logo.png)
+- Tags: Achievements 2
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Achievements: Gold Prize
 
-## Company 3
-
-- _Role_ | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## Game Idea & Program Contest
+- _Korea cultural center_ | Nov 2024
+- ![logo512](../assets/logo.png)
+- Tags: Achievements 3
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Achievements: No Prize

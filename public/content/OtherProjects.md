@@ -1,29 +1,16 @@
-## Project 1
-
+## Pig Adventure
 Description
-
-- Tags: Category 1
+- Tags: Game 1
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://thuonggamedev.itch.io/pigadventure/]
 
-## Project 2
-
+## Undead Sirvivor
 Description
-
-- Tags: Category 2
+- Tags: Game 2
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://thuonggamedev.itch.io/undead-survivor/]
 
-## Project 3
-
-Description
-
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]

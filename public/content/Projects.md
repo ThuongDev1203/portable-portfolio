@@ -1,32 +1,17 @@
-## Project A
-
+## Pig Adventure
 Description
-
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+- ![600x200](/assets/game_1.jpg)
+- Tags: Game 1
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://thuonggamedev.itch.io/pigadventure/]
 
-## Project B
-
+## Undead Sirvivor
 Description
-
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+- ![600x200](/assets/game_2.jpg)
+- Tags: Game 2
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
-
-## Project C
-
-Description
-
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Link [https://thuonggamedev.itch.io/undead-survivor/]

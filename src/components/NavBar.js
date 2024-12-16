@@ -103,7 +103,7 @@ export default function Nav({ color }) {
                   About
                 </Button>
                 <Button variant="ghost" onClick={scrollToExperience}>
-                  Experience
+                  Achievements
                 </Button>
                 <Button variant="ghost" onClick={scrollToProjects}>
                   Projects
@@ -136,7 +136,7 @@ export default function Nav({ color }) {
                         About
                       </Button>
                       <Button variant="ghost" onClick={scrollToExperience}>
-                        Experience
+                        Achievements
                       </Button>
                       <Button variant="ghost" onClick={scrollToProjects}>
                         Projects

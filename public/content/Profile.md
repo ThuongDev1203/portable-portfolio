@@ -1,15 +1,12 @@
 ## Site Name
-
 - Thuong Cao Nguyen
 
 ## Header
-
-- Hi, my name is Thuong Cao Nguyen.
+- Hi, I'm Thuong Cao Nguyen.
 - I'm a Unity dev & ReactJs.
 - Short Description Here.
 
 ## About
-
 I’m a senior student majoring in Computer Science at Van Hien University, passionate about game programming. I have good skills in C# and have participated in many 2D game projects. Among them, I have won 3 awards such as: Gold prize and second prize in game programming, encouragement prize in algorithms. I always strive to learn and develop myself.
 
 ## Contact
@@ -19,5 +16,4 @@ I’m a senior student majoring in Computer Science at Van Hien University, pass
 - Email: thuongdev1203@gmail.com
 
 ## Logo
-
-- NCT
+- THUONGDEV

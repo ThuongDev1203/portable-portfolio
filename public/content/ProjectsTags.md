@@ -1,3 +1,2 @@
-Category 1
-Category 2
-Category 3
+Game 1
+Game 2
