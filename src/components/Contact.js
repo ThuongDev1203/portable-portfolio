@@ -45,7 +45,12 @@ export default function Contact({ color }) {
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.contact}
             </Text>
-            <Text color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>
+            <Text
+              color={`${color}.500`}
+              fontWeight={600}
+              fontSize={"lg"}
+              px={4}
+            >
               {profile.email}
             </Text>
             <Center>
@@ -61,4 +66,3 @@ export default function Contact({ color }) {
     </>
   );
 }
-
