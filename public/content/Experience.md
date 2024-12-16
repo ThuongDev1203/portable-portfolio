@@ -1,5 +1,5 @@
 ## Academic Competitions
-- _Trường Đại học Văn Hiến_ | Aug 2024
+- _Van Hien University_ | Aug 2024
 - ![logo512](../assets/logo.png)
 - Tags: Achievements 1
 - Badges:
@@ -8,7 +8,7 @@
   - Achievements: Second Prize
 
 ## Academic Competitions
-- _Trường Đại học Văn Hiến_ | Aug 2024
+- _Van Hien University_ | Aug 2024
 - ![logo512](../assets/logo.png)
 - Tags: Achievements 2
 - Badges:
