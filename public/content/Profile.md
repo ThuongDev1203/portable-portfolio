@@ -5,7 +5,7 @@
 ## Header
 
 - Hi, my name is Thuong Cao Nguyen.
-- I'm a Unity dev.
+- I'm a Unity dev & ReactJs.
 - Short Description Here.
 
 ## About
