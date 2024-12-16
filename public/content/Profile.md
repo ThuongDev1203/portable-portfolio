@@ -1,6 +1,6 @@
 ## Site Name
 
-- Portable Portfolio
+- Thuong Cao Nguyen
 
 ## Header
 
@@ -10,11 +10,9 @@
 
 ## About
 
-Write your "About" section here.
+I’m a senior student majoring in Computer Science at Van Hien University, passionate about game programming. I have good skills in C# and have participated in many 2D game projects. Among them, I have won 3 awards such as: Gold prize and second prize in game programming, encouragement prize in algorithms. I always strive to learn and develop myself.
 
 ## Contact
-
-Write your "Contact" section here.
 
 - LinkedIn: https://linkedin.com/in/thượng-nguyễn-776645297/
 - GitHub: https://github.com/ThuongDev1203/
@@ -22,4 +20,4 @@ Write your "Contact" section here.
 
 ## Logo
 
-- CAOTHUONG
+- NCT
