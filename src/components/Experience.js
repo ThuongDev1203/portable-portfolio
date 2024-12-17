@@ -51,10 +51,10 @@ export default function Experience({ color }) {
         >
           <Stack align="center" direction="row" px={4}>
             <HStack mx={4}>
-              <Text color={`${color}.400`} fontWeight={800}>
+              <Text color={`${color}.400`} fontWeight={800} fontSize={"2xl"}>
                 02
               </Text>
-              <Text fontWeight={800}>Achievements</Text>
+              <Text fontWeight={800} fontSize="2xl">Achievements</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
@@ -79,7 +79,7 @@ export default function Experience({ color }) {
                     <CardHeader>
                       <Flex justifyContent="space-between">
                         <HStack>
-                          <Image src={exp.image} h={50} />
+                          <Image src={exp.image} h={100} />
                           <Box px={2} align="left">
                             <Text fontWeight={600}>{exp.company}</Text>
                             <Text>{exp.position}</Text>

@@ -1,16 +1,16 @@
 ## Pig Adventure
-Description
+Chú heo vui vẻ, đầy nhiệt huyết, năng động.
 - Tags: Game 1
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://thuonggamedev.itch.io/pigadventure/]
+  - Play game [https://thuonggamedev.itch.io/pigadventure/]
 
 ## Undead Sirvivor
-Description
+Chiến đấu với những zombie xấu xa.
 - Tags: Game 2
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://thuonggamedev.itch.io/undead-survivor/]
+  - Play game [https://thuonggamedev.itch.io/undead-survivor/]
 

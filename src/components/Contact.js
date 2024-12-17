@@ -33,10 +33,10 @@ export default function Contact({ color }) {
         >
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
-              <Text color={`${color}.400`} fontWeight={800}>
+              <Text color={`${color}.400`} fontWeight={800} fontSize={"2xl"}>
                 04
               </Text>
-              <Text fontWeight={800}>Contact</Text>
+              <Text fontWeight={800} fontSize={"2xl"}>Contact</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
