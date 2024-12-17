@@ -9,7 +9,7 @@
 
 ## Academic Competitions Season 2
 - _Van Hien University_ | Aug 2024
-- ![awardimg2](../assets/dt22.jpg)
+- ![awardimg2](../assets/dt2.jpg)
 - Tags: Achievements 2
 - Badges:
   - Badge [blue]
