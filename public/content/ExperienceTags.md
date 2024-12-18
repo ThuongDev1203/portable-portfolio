@@ -1,4 +1,4 @@
-Achievements 1
-Achievements 2
-Achievements 3
-Achievements 4
+Awards 1
+Awards 2
+Awards 3
+Other

@@ -7,7 +7,7 @@ The pig is cheerful, enthusiastic and active.
   - Play game [https://thuonggamedev.itch.io/pigadventure/]
 
 ## Undead Sirvivor
-Fight the evil zombies.
+Fight evil zombies and have a variety of skills.
 - Tags: Game 2
 - Badges:
   - Badge [blue]
