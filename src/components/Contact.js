@@ -8,7 +8,7 @@ import {
   Heading,
   Center,
 } from "@chakra-ui/react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaEnvelope, FaGoogle } from "react-icons/fa";
 import ProfileArray from "./ProfileArray";
 
 export default function Contact({ color }) {
@@ -22,6 +22,10 @@ export default function Contact({ color }) {
   const email = () => {
     window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
   };
+  const web = () => {
+    window.open(`${profile.web}`, "_blank", "noreferrer, noopener");
+  }
+  
   return (
     <>
       <Container maxW={"3xl"} id="contact">
@@ -58,6 +62,7 @@ export default function Contact({ color }) {
                 <FaLinkedin onClick={linkedin} size={28} />
                 <FaGithub onClick={github} size={28} />
                 <FaEnvelope onClick={email} size={28} />
+                <FaGoogle onClick={web} size={28}/>
               </HStack>
             </Center>
           </Stack>
