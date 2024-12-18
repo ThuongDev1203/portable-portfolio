@@ -1,5 +1,5 @@
 ## Pig Adventure
-Chú heo vui vẻ, đầy nhiệt huyết, năng động.
+The pig is cheerful, enthusiastic and active.
 - ![600x200](/assets/game_1.jpg)
 - Tags: Game 1
 - Badges:
@@ -8,7 +8,7 @@ Chú heo vui vẻ, đầy nhiệt huyết, năng động.
   - Play game [https://thuonggamedev.itch.io/pigadventure/]
 
 ## Undead Sirvivor
-Chiến đấu với những zombie xấu xa.
+Fight the evil zombies.
 - ![600x200](/assets/game_2.jpg)
 - Tags: Game 2
 - Badges:
